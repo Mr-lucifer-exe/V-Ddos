@@ -18,14 +18,14 @@
 - $ `pkg install git`
 - $ `pkg install figlet`
 - $ `git clone https://github.com/Mr-lucifer-exe/V-Ddos.git`
-- $ `cd V-DdoS`
-- $ `chmod +x V-DdoS.py`
-- $ `python2 V-DdoS.py`
+- $ `cd V-Ddos`
+- $ `chmod +x V-Ddos.py`
+- $ `python2 V-Ddos.py`
 
 <p><b>To Run</b></p>
 
-- $ `cd V-DdoS`
-- $ `python2 V-DdoS.py`
+- $ `cd V-Ddos`
+- $ `python2 V-Ddos.py`
 
 <p><b><i> Your Tool Install & Setup Done!!..Now Go To Google & Search</i></b>`Website IP Finder`<b><i>Now  Open The 1st Wesite & Place Your Target Website Url e.g. www.biribaba.com..</b></i></p>
 
